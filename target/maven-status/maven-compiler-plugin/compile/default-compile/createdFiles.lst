@@ -1,0 +1,5 @@
+com\mycompany\coladoublefx\controller\ColaDoubleController.class
+com\mycompany\coladoublefx\view\CanvaColaDouble.class
+com\mycompany\coladoublefx\App.class
+com\mycompany\coladoublefx\model\ColaDouble.class
+module-info.class
